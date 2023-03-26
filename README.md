@@ -18,6 +18,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=tommy-bie&hide=contribs&count_private=true&show_icons=true&theme=synthwave" width="450px" height="200px"/> <img src="https://streak-stats.demolab.com?user=tommy-bie&theme=radical&mode=weekly" width="450px" height="200px"/>
 </div>
 
+<br/>
+
 <div align=center>
 <img src="https://github-profile-trophy.vercel.app/?username=tommy-bie&theme=juicyfresh&title=MultiLanguage,Joined2020,Stars,Commits,Repositories,Followers" width="800px"/>
 </div>
