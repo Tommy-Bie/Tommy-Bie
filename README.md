@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+[![Tommy Bie's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommy-bie&hide=contribs&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tommy-bie&theme=juicyfresh&title=MultiLanguage,Joined2020,Stars,Commits,Repositories,Followers&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=tommy-bie&theme=radical&mode=weekly)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=tommy-bie)
+
 <!--
 **Tommy-Bie/Tommy-Bie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
