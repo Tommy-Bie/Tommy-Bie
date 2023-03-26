@@ -30,6 +30,7 @@
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=tommy-bie&theme=radical&mode=weekly)](https://git.io/streak-stats) -->
 
+<!-- [![Language Used](https://github-readme-stats.vercel.app/api/top-langs/?username=tommy-bie&theme=radical) -->
 
 
 <!--
