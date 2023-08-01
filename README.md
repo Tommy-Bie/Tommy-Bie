@@ -4,11 +4,11 @@
 
 ### About Me
 
+- *Ph.D. Student of Computer Science and Engineering at the HongKong University of Science and Technology (2023.9 - present)*
 - *Bachelor of Engineering in Intelligent Science and Technology at South China University of Technology (2019.9 - 2023.6)*
 - *Visiting Student at EECS Department at University of California, Berkeley (2022.1 - 2022.6)*
 - *Used to be an intern at ByteDance*
-- *My research interest is in Artificial Intelligence and Software Engineering*
-- *Applying for Post-graduate Study*
+- *My research interest is in Artificial Intelligence and Computer Vision*
 
 </br>
 
